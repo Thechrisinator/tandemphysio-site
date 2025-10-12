@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.tandemphysio.com.au/sitemap.xml
